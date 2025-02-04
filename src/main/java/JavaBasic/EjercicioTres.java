@@ -1,4 +1,4 @@
-package org.elavincho;
+package JavaBasic;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;

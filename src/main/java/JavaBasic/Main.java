@@ -1,4 +1,4 @@
-package org.elavincho;
+package JavaBasic;
 
 import java.util.Scanner;
 
