@@ -14,7 +14,7 @@ public class EjercicioTres {
         System.out.println("");
         System.out.println("Introducción a Java");
         System.out.println("");
-        System.out.println("Ejercicio 2");
+        System.out.println("Ejercicio 3");
         System.out.println("");
         System.out.println("Escribir un programa que pida una frase y la muestre toda en mayúsculas\n" +
                 " y después toda en minúsculas.\n" +
